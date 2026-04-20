@@ -37,7 +37,6 @@
 
 
 
-    </div>
   </section>
 
   <div class="info-strip">
@@ -146,19 +145,5 @@
   </div>
 </div>
 
-<script>
-  function showService(id) {
-    document.getElementById('home').style.display = 'none';
-    document.querySelectorAll('.service-page').forEach(p => p.classList.remove('active'));
-    document.getElementById(id).classList.add('active');
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
-
-  function showHome() {
-    document.querySelectorAll('.service-page').forEach(p => p.classList.remove('active'));
-    document.getElementById('home').style.display = 'block';
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
-</script>
 </body>
 </html>
