@@ -35,29 +35,7 @@
     <div class="section-title">OUR SERVICES</div>
     <div class="cards-grid">
 
-      <a class="card card-1 c1" href="#" onclick="showService('s1'); return false;">
-        <div class="card-num">01</div>
-        <div class="card-icon icon-1">📱</div>
-        <h3>LCD Replacement</h3>
-        <p>Professional mobile phone screen replacement with quality parts and fast turnaround.</p>
-        <div class="card-arrow">View Technicians <span>→</span></div>
-      </a>
 
-      <a class="card card-2 c2" href="#" onclick="showService('s2'); return false;">
-        <div class="card-num">02</div>
-        <div class="card-icon icon-2">💻</div>
-        <h3>Laptop Cleaning</h3>
-        <p>Deep cleaning and maintenance for laptops to improve performance and extend lifespan.</p>
-        <div class="card-arrow">View Technicians <span>→</span></div>
-      </a>
-
-      <a class="card card-3 c3" href="#" onclick="showService('s3'); return false;">
-        <div class="card-num">03</div>
-        <div class="card-icon icon-3">🔌</div>
-        <h3>Electronic Components</h3>
-        <p>Supplier of quality electronic components for repairs, projects, and replacements.</p>
-        <div class="card-arrow">View Technicians <span>→</span></div>
-      </a>
 
     </div>
   </section>
