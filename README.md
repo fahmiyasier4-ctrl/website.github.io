@@ -12,7 +12,6 @@
 <body>
 
 <nav>
-  <div class="logo">TECH<span>SOLUTION</span></div>
   <a href="#" onclick="showHome()">Home</a>
 </nav>
 
